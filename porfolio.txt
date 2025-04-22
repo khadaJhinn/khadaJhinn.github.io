@@ -1,0 +1,6 @@
+nom prenom mail age...
+education formation = ecoles diplomes...
+experiences pro 
+connaissance : en info et non 
+activités extra pro 
+projets :
